@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/wyct0orcyRcS4" width="480" height="346" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/family-simpsons-take-wyct0orcyRcS4">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/wyct0orcyRcS4/giphy.gif" width="480" height="346" alt="Peter Griffin GIF via GIPHY" />
 
 # Just MCP it Bro
 
