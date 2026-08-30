@@ -1,0 +1,6 @@
+﻿fastmcp
+uvicorn
+starlette
+httpx
+python-dotenv
+truststore
