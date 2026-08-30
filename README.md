@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/wyct0orcyRcS4/giphy.gif" width="480" height="346" alt="Peter Griffin GIF via GIPHY" />
+<div align="center">
+  <img src="https://media.giphy.com/media/wyct0orcyRcS4/giphy.gif" width="480" height="346" alt="Peter Griffin GIF via GIPHY" />
+</div>
 
 # Just MCP it Bro
 
