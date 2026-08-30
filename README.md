@@ -4,6 +4,15 @@
 
 # Just MCP it Bro
 
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-Supported-8A2BE2.svg" alt="MCP">
+  <img src="https://img.shields.io/badge/Jira-Integration-0052CC?logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Salesforce-Integration-00A1E0?logo=salesforce&logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/xMatters-Integration-FF4500" alt="xMatters">
+</p>
+
 Welcome to **Just MCP it Bro**! Because having a million different repositories for your Model Context Protocol integrations is *so* last year. We shoved them all in here. You're welcome.
 
 ## What's in the box?
