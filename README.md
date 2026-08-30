@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWliSAkq4o5S1KTXF3/giphy.gif" width="480" alt="Pokemon GIF via GIPHY" />
+  <img src="https://media.giphy.com/media/dWliSAkq4o5S1KTXF3/giphy.gif" width="336" alt="Pokemon GIF via GIPHY" />
 </div>
 
 # Just MCP it Bro
